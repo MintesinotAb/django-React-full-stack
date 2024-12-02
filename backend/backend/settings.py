@@ -153,3 +153,4 @@ CORS_ALLOWS_CREDENTIALS = True
 #APPEND_SLASH = True
 
 # Yes or No
+
